@@ -28,7 +28,7 @@
     <string name="ex3_win">Victoire !</string>
     <string name="ex3_loose">Defaite !</string>
     <string name="ex3_tie">Égalité !</string>
-    <string name="ex3_nb_win">Nombre de victoires : </string>
-    <string name="ex3_nb_loose">Nombre de défaites : </string>
-    <string name="ex3_nb_tie">"Nombre d'égalités : "</string>
+    <string name="ex3_nb_win">Nombre de victoires : %1$d</string>
+    <string name="ex3_nb_loose">Nombre de défaites : %1$d</string>
+    <string name="ex3_nb_tie">"Nombre d'égalités : %1$d"</string>
 </resources>
