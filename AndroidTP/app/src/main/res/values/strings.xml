@@ -31,4 +31,32 @@
     <string name="ex3_nb_win">Nombre de victoires : %1$d</string>
     <string name="ex3_nb_loose">Nombre de défaites : %1$d</string>
     <string name="ex3_nb_tie">"Nombre d'égalités : %1$d"</string>
+
+    <!-- Exercice 4 -->
+    <!-- Main -->
+    <string name="ex4_main_txt">Ecris ton prénom</string>
+    <string name="ex4_main_ipt">Prénom</string>
+    <string name="ex4_main_btn">VALIDER</string>
+    <!-- Hello -->
+    <string name="ex4_hello_txt">Hello %1$s !!!</string>
+    <string name="ex4_hello_pre">CHANGER DE PRÉNOM</string>
+    <string name="ex4_hello_ex">CHOISIR UN AUTRE EXERCICE</string>
+
+    <!-- Exercice 5 -->
+    <!-- Main -->
+    <string name="ex5_main_txt">Choisis ta table de multiplication</string>
+    <string name="ex5_main_btn">VALIDER</string>
+    <!-- TableMultiplication -->
+    <string name="ex5_table_calc">%1$d x %2$d = </string>
+    <string name="ex5_table_hint">"?"</string>
+    <string name="ex5_table_btn">VALIDER</string>
+    <!-- Erreur -->
+    <string name="ex5_err_txt">ERREUR(S) !!</string>
+    <string name="ex5_err_sub">"Nombre d'erreurs : %1$d"</string>
+    <string name="ex5_err_corr">CORRIGER MES RÉPONSES</string>
+    <string name="ex5_err_sel">CHOISIR UNE AUTRE TABLE</string>
+    <!-- Felicitation -->
+    <string name="ex5_win_txt">FELICITATIONS !!</string>
+    <string name="ex5_win_tab">CHOISIR UNE AUTRE TABLE</string>
+    <string name="ex5_win_exo">CHOISIR UN AUTRE EXERCICE</string>
 </resources>
