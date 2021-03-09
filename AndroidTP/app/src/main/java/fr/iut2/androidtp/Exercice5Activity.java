@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class Exercice5Activity extends AppCompatActivity {
 
-    NumberPicker np;
+    private NumberPicker np;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

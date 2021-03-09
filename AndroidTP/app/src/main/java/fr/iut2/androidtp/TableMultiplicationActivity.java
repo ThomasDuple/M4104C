@@ -57,7 +57,11 @@ public class TableMultiplicationActivity extends AppCompatActivity {
                 LinearLayout item = (LinearLayout) list.getChildAt(i);
                 EditText ipt = (EditText) item.getChildAt(1);
 
-                if (ipt.getText().toString().equals("") || i * num != Integer.parseInt(ipt.getText().toString())) miss++;
+                String entry = ipt.getText().toString();
+
+                if (entry.isEmpty() || i * num != Integer.parseInt(entry)) {
+                    miss++;
+                }
             }
 
             Intent intent;
